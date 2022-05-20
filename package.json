@@ -42,6 +42,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
-    "copy-webpack-plugin": "^10.2.4"
+    "copy-webpack-plugin": "^10.2.4",
+    "normalize.css": "^8.0.1"
   }
 }
